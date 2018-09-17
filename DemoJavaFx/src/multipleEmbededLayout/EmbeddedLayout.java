@@ -9,7 +9,7 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 //use boarder pane as main window.
-//docs oracle javaFX built in layouts.
+//docs oracle javaFX built in layouts..
 public class EmbeddedLayout extends Application {
 	Stage window;
 	@Override

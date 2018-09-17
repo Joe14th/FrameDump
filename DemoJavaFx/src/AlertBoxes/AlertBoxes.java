@@ -6,7 +6,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 //create multiple windows 
-//- to create multiple scenes look at switch scene.
+//- to create multiple scenes look at switch scene..
 
 //create new java class alert box
 public class AlertBoxes extends Application {

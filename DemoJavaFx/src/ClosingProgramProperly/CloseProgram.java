@@ -5,7 +5,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
-//properly close out of application.
+//properly close out of application..
 public class CloseProgram extends Application {
 	Stage window;
 	Button button;

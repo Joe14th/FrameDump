@@ -8,7 +8,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 
-//just like alert box but give options and return it to main program.
+//just like alert box but give options and return it to main program..
 public class ConfirmBox {
 	
 	static boolean answer;
