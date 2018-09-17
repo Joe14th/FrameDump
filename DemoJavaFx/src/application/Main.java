@@ -9,7 +9,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.StackPane;
 
-//EventHandle not needed here for anonymous classes or Lambda expression
+//EventHandle not needed here for anonymous classes or Lambda expression.
 public class Main extends Application{// implements EventHandler<ActionEvent>{
 	//Override because inherited from application class
 	Button button;

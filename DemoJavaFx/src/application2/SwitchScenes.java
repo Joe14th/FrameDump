@@ -9,7 +9,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 public class SwitchScenes extends Application {
-	//rename primaryStage to window
+	//rename primaryStage to window.
 	Stage window; 
 	Scene scene1, scene2;
 	//set scenes
